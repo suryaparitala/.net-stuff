@@ -1,0 +1,21 @@
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.deps.json
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.runtimeconfig.json
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.runtimeconfig.dev.json
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.dll
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.pdb
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.csprojResolveAssemblyReference.cache
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.AssemblyInfo.cs
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.dll
+c:\users\sparitala\documents\visual studio 2017\Projects\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.pdb
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.deps.json
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.runtimeconfig.json
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.runtimeconfig.dev.json
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.dll
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp1.1\LOGINAPP.pdb
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.csprojResolveAssemblyReference.cache
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.csproj.CoreCompileInputs.cache
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.AssemblyInfoInputs.cache
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.AssemblyInfo.cs
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.dll
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\LOGINAPP.pdb
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs

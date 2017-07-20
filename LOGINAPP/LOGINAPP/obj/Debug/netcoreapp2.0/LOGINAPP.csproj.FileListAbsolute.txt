@@ -1,0 +1,12 @@
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp2.0\LOGINAPP.deps.json
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp2.0\LOGINAPP.runtimeconfig.json
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp2.0\LOGINAPP.runtimeconfig.dev.json
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp2.0\LOGINAPP.dll
+W:\testarea_nest\LOGINAPP\LOGINAPP\bin\Debug\netcoreapp2.0\LOGINAPP.pdb
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\LOGINAPP.csprojResolveAssemblyReference.cache
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\LOGINAPP.csproj.CoreCompileInputs.cache
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\LOGINAPP.AssemblyInfoInputs.cache
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\LOGINAPP.AssemblyInfo.cs
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\LOGINAPP.dll
+W:\testarea_nest\LOGINAPP\LOGINAPP\obj\Debug\netcoreapp2.0\LOGINAPP.pdb

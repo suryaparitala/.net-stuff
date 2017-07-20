@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sparitala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sparitala\\.nuget\\packages"
+    ]
+  }
+}
